@@ -1,3 +1,12 @@
 <resources>
     <string name="app_name">ArabicWordsApp</string>
+    <string name="detail_title">Детали слова</string>
+    <string name="label_arabic">Арабское слово:</string>
+    <string name="label_translation">Перевод:</string>
+    <string name="label_transcription">Транскрипция:</string>
+    <string name="label_grammar">Грамматика:</string>
+    <string name="button_edit">Редактировать</string>
+    <string name="button_delete">Удалить</string>
+    <string name="button_save">Сохранить</string>
+    <string name="add_title">Добавить слово</string>
 </resources>
